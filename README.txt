@@ -1,4 +1,4 @@
-# Obstacle-dectector
+# Obstacle-detector
 ******Code for Arduino uno*******
 int buzz = 12;
 int LED = 13; 
