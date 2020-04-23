@@ -1,5 +1,5 @@
 To detect near by objects
-							******************Components Reuired****************
+			******************Components Reuired****************
 1. Arduino uno 
 2. IR sensor 
 3. Piezoelectric buzzer 
